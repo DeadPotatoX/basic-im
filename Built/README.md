@@ -1,6 +1,10 @@
 Ready for running!<br>
 Usage: <br>
-<pre>java -jar GUI/ServerGUI</pre> for GUI Server<br>
-<pre>java -jar GUI/ClientGUI</pre> for GUI Client<br>
-<pre>java -jar System/ServerSys</pre> for System Server<br>
-<pre>java -jar System/ServerSys</pre> for System Client<br>
+For GUI Server
+<pre>java -jar GUI/ServerGUI</pre><br>
+For GUI Client
+<pre>java -jar GUI/ClientGUI</pre><br>
+For System Server
+<pre>java -jar System/ServerSys</pre><br>
+For System Client
+<pre>java -jar System/ServerSys</pre><br>
